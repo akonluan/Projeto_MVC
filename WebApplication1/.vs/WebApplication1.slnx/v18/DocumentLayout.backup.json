@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akonl\\OneDrive\\Documentos\\GitHub\\Projeto_MVC\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32D4C3-36DD-4EB0-BDC7-ADE7AC924239}|WebApplication1\\WebApplication1.csproj|c:\\users\\akonl\\onedrive\\documentos\\github\\projeto_mvc\\webapplication1\\webapplication1\\views\\pais\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D32D4C3-36DD-4EB0-BDC7-ADE7AC924239}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\pais\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32D4C3-36DD-4EB0-BDC7-ADE7AC924239}|WebApplication1\\WebApplication1.csproj|c:\\users\\akonl\\onedrive\\documentos\\github\\projeto_mvc\\webapplication1\\webapplication1\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32D4C3-36DD-4EB0-BDC7-ADE7AC924239}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32D4C3-36DD-4EB0-BDC7-ADE7AC924239}|WebApplication1\\WebApplication1.csproj|c:\\users\\akonl\\onedrive\\documentos\\github\\projeto_mvc\\webapplication1\\webapplication1\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D32D4C3-36DD-4EB0-BDC7-ADE7AC924239}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\akonl\\OneDrive\\Documentos\\GitHub\\Projeto_MVC\\WebApplication1\\WebApplication1\\Views\\Pais\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Pais\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\akonl\\OneDrive\\Documentos\\GitHub\\Projeto_MVC\\WebApplication1\\WebApplication1\\Views\\Pais\\Detalhes.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Pais\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T22:12:43.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\akonl\\OneDrive\\Documentos\\GitHub\\Projeto_MVC\\WebApplication1\\WebApplication1\\Views\\Pais\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Pais\\Index.cshtml",
+              "ToolTip": "C:\\Users\\akonl\\OneDrive\\Documentos\\GitHub\\Projeto_MVC\\WebApplication1\\WebApplication1\\Views\\Pais\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Pais\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T22:10:15.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaisController.cs",
+              "DocumentMoniker": "C:\\Users\\akonl\\OneDrive\\Documentos\\GitHub\\Projeto_MVC\\WebApplication1\\WebApplication1\\Controllers\\PaisController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PaisController.cs",
+              "ToolTip": "C:\\Users\\akonl\\OneDrive\\Documentos\\GitHub\\Projeto_MVC\\WebApplication1\\WebApplication1\\Controllers\\PaisController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PaisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T22:09:47.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
